@@ -17,7 +17,7 @@ name = "adc"
 uuid = "2e48782d9d424b678c583755877fa687"
 [module.config]
 thresholds = [
-  {index = 2, value = 11100}, # 11.1V
+  {index = 2, value = 111}, # 11.1V
   {index = 2, value = 12000}, # 12.0V
   {index = 2, value = 18000}, # 18.0V
   {index = 2, value = 22200}, # 22.2V
