@@ -131,7 +131,7 @@ uuid = "1e7710e2853642a4b7924afadeee0da6"
 blocks = [
   {type = "sleep-behaviour", args = {active_profile = "0", sleep_profile = "100"}},
   {type = "kv-accumulators", tag = "acc0", args = {start = "true", stop = "false", acc_index = "4"}},
-  {type = "kv-accumulators", tag = "acc1", args = {start = "io.input_high.1", stop = "io.input_low.1", acc_index = "5"}},
+  {type = "kv-accumulators", tag = "acc1", args = {start = "true", stop = "false", acc_index = "5"}},
   {type = "periodic-messages", args = {early_on_interval = "300000", on_interval = "900000", off_interval = "60", delay_interval = "240000", report_index = "0", sleep_profile = "1"}},
   {type = "ident-messages", args = {duration = "45000", report_index = "1"}},
   {type = "input-cos", tag = "input_1", args = {input = "0", report_index = "2", event_signal = "1", delay_interval = "1000"}},
