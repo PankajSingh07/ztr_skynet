@@ -33,7 +33,7 @@ uuid = "a0d76aa3becf4bdabf54ebc6c6c21945"
 
 [[module]]
 name = "j1939"
-uuid = "ac0e4b9c567a4f629b6f472d9ca138ce"
+uuid = "e85bf76ea1cb449a8fcbfec5da8b50fb"
 
 [[module]]
 name = "ble"
