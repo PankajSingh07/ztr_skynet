@@ -6,7 +6,6 @@ digital_outputs = 1
 analog_inputs = 1
 uarts = 1
 
-
 [[module]]
 name = "power"
 uuid = "abbbd3832ad747a0a1b0cd1b3c6d6579"
