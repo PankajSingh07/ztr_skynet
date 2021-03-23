@@ -15,6 +15,10 @@ name = "adc"
 uuid = "2e48782d9d424b678c583755877fa687"
 
 [[module]]
+name = "timer"
+uuid = "a018e7e898ac74a06936fab03b5fc6095"
+
+[[module]]
 name = "io"
 uuid = "2fa4f8500e044f92b1368164d8e1e49c"
 
