@@ -11,7 +11,7 @@ profiles = [
 
 [[module]]
 name = "timer"
-uuid = "018e7e898ac74a06936fab03b5fc6094"
+uuid = "a018e7e898ac74a06936fab03b5fc6095"
 
 [[module]]
 name = "adc"
