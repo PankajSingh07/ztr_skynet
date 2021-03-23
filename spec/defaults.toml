@@ -8,6 +8,7 @@ profiles = [
   {state = 2, wakeup_mask = 20, delay_s = 1720}, # 2 min timer before hibernate.
 ]
 
+
 [[module]]
 name = "timer"
 uuid = "018e7e898ac74a06936fab03b5fc6094"
