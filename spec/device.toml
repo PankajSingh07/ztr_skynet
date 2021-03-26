@@ -16,7 +16,7 @@ uuid = "2e48782d9d424b678c583755877fa687"
 
 [[module]]
 name = "timer"
-uuid = "a018e7e898ac74a06936fab03b5fc6095"
+uuid = "018e7e898ac74a06936fab03b5fc6094"
 
 [[module]]
 name = "io"
