@@ -4,7 +4,7 @@ uuid = "abbbd3832ad747a0a1b0cd1b3c6d6579"
 [module.config]
 profiles = [
   {state = 0},
-  {state = 1, wakeup_mask = 149, delay_s = 1300}, # 5 min timer before sleep.
+  {state = 1, wakeup_mask = 150, delay_s = 1300}, # 5 min timer before sleep.
   {state = 2, wakeup_mask = 20, delay_s = 1720}, # 2 min timer before hibernate.
 ]
 
